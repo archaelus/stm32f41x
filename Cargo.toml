@@ -1,0 +1,7 @@
+[package]
+authors = ["Geoff Cant <nem@erlang.geek.nz>"]
+name = "stm32f41x"
+version = "0.1.0"
+[dependencies]
+cortex-m = "*"
+vcell = "*"
